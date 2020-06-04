@@ -7,6 +7,6 @@ Move using snap to get start point and destination, with optional constraints to
 Rotate about arbitrary pivot and start axis.
 Scale about arbitrary pivot.
 
-[download](https://gumroad.com/l/nQVcS) 
+# [download](https://gumroad.com/l/nQVcS) 
 
 [![Preview](https://img.youtube.com/vi/0ysfIw0ZojM/0.jpg)](https://youtu.be/0ysfIw0ZojM)
